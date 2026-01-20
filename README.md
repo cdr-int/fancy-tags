@@ -138,7 +138,7 @@ print.max_tag_len = 20  # Set a custom maximum tag length
 
 ## Installation
 
-Simply download or clone this repository to your project, and then import `TaggedPrint` to start using it:
+Simply download or clone this repository to your project, and then import `print` from fancy to start using it:
 
 ```bash
 git clone https://github.com/yourusername/fancy.py.git
@@ -147,9 +147,7 @@ git clone https://github.com/yourusername/fancy.py.git
 Then, in your script, use:
 
 ```python
-from fancy import TaggedPrint
-
-print = TaggedPrint()
+from fancy import print
 ```
 
 ### Example Project Structure
