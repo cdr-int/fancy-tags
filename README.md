@@ -56,7 +56,7 @@ print.set("newtag1", "bright_cyan")    # Named color
 1. **Initialize the Library**:
 
 ```python
-from fancy import TaggedPrint
+from fancy import print
 ```
 
 2. **Using Default Tags**:
