@@ -1,3 +1,6 @@
+"""
+This is an example file and is not required for the library to function
+"""
 from fancy import print
 
 # Use default tags
@@ -11,4 +14,5 @@ print.set("special", "bright_cyan") # use rich colour names
 
 
 print.special("My custom blue tag!")
+
 print.custom("My custom pink tag!")
