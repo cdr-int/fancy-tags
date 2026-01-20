@@ -17,6 +17,11 @@ pip install rich
 * **Customizable Colors**: Set colors for tags either as RGB tuples or using named colors.
 * **Rich Library Support**: If `rich` is installed, color formatting will be applied, otherwise, the output will be plain text.
 
+## Preview
+
+<img width="500" height=auto alt="terminal preview" src="https://github.com/user-attachments/assets/cb528909-30f7-406c-af73-2eddcc514fba" />
+
+
 ## Default Tags
 
 The following default tags are included with the library, each with a pre-defined color:
@@ -101,6 +106,9 @@ if __name__ == "__main__":
     print.custom("Custom color message!")
     print.highlight("Highlighted message!")
 ```
+**Photo Example**:
+
+<img width="500" height=auto alt="preview" src="https://github.com/user-attachments/assets/31993a78-508b-41ab-a4d0-54cf38932671" />
 
 ## How It Works
 
