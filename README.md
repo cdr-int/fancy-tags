@@ -1,5 +1,7 @@
-![Licence]([https://img.shields.io/badge/license-Mit-green](https://img.shields.io/github/license/cdr-int/fancy-tags))
+![Licence](https://img.shields.io/github/license/cdr-int/fancy-tags)
 ![Python](https://img.shields.io/badge/python-3.9+-blue)
+![Size](https://img.shields.io/github/size/cdr-int/fancy-tags/fancy.py)
+
 
 # fancy.py - A Simple Library for Formatted Tag-Based Printing
 
