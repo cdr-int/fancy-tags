@@ -1,3 +1,6 @@
+![Licence]([https://img.shields.io/badge/license-Mit-green](https://img.shields.io/github/license/cdr-int/fancy-tags))
+![Python](https://img.shields.io/badge/python-3.9+-blue)
+
 # fancy.py - A Simple Library for Formatted Tag-Based Printing
 
 `fancy.py` allows you to easily print messages with custom tags and color formatting. You can set custom colors for specific tags and print formatted messages with them. If the `rich` library is installed, color formatting will be applied, otherwise, no formatting will be used.
