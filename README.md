@@ -14,7 +14,7 @@ pip install rich
 ## Features
 
 * **Tag-Based Printing**: Print messages with various pre-defined or custom tags.
-* **Customizable Colors**: Set colors for tags either as RGB tuples or using named colors.
+* **Customisable Colors**: Set colors for tags either as RGB tuples or using named colors.
 * **Rich Library Support**: If `rich` is installed, color formatting will be applied, otherwise, the output will be plain text.
 
 ## Preview
@@ -53,7 +53,7 @@ print.set("newtag1", "bright_cyan")    # Named color
 
 ## Usage
 
-1. **Initialize the Library**:
+1. **Initialise the Library**:
 
 ```python
 from fancy import print
