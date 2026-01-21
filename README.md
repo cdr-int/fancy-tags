@@ -19,7 +19,7 @@ pip install rich
 
 ## Preview
 
-<img width="500" height=auto alt="terminal preview" src="https://github.com/user-attachments/assets/cb528909-30f7-406c-af73-2eddcc514fba" />
+<img width="350" height=auto alt="default tags" src="https://github.com/user-attachments/assets/13933c44-30ba-413b-bcf9-cb39097ec042" />
 
 
 ## Default Tags
